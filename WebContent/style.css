@@ -1,0 +1,32 @@
+body{
+	background:url(img/banner.jpg) no-repeat;
+	background-color:#ff3300;
+}
+.content{
+	margin:300px 20px 20px;
+}
+}
+.col-center-block { 
+float: none;    
+display: block; 
+margin-left: auto;  
+margin-right: auto;
+}
+ 
+html, body, .container {    
+height: 100%;   
+width: 100%;
+}
+.container {    
+display: table; 
+vertical-align: middle;
+}
+.vertical-center-row {  
+display: table-cell;    
+vertical-align: middle;
+ 
+}
+.site-footer{
+	background-color: #222;
+	color: #fff;
+}
